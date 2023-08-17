@@ -1,5 +1,5 @@
-# Project
-#**Online Retail Segmentation**
+# Project Title: Online Retail Segmentation
+
 SELECT * FROM online_retail.online_retail;
 ----------- What is the distribution of order values across all customers in the dataset?
 SELECT count(c.Quantity),c.CustomerID
